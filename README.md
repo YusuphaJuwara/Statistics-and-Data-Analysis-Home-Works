@@ -6,4 +6,4 @@
 
     a). Please read the presentation slides available in both pdf and power point in the project folder to know what the project is about. They explain everything about the project.
 
-    b). For the actual implementation of the project and extensive comments, please read the final notebook in the said folder. Must of the analysis in the presentation slides are already availabe in the notebook.
+    b). For the actual implementation of the project and extensive comments, please read the final notebook in the said folder. Most of the analysis in the presentation slides are already availabe in the notebook.
